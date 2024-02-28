@@ -93,15 +93,6 @@ footer {
   padding-bottom: 20px;
 }
 
-.game-over {
-  background-color: red;
-  opacity: 0.8;
-}
-
-.red {
-  color: red;
-}
-
 @media (max-width: 768px) {
   h1 {
     font-size: 4rem;
